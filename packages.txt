@@ -1,0 +1,59 @@
+# Core
+xorg
+xorg-xinit
+xorg-server 
+git
+base-devel
+sof-firmware
+openssh
+gvim
+feh
+fzf
+yazi
+tmux
+slock
+ripgrep
+alacritty
+kitty
+bat
+dmenu
+picom
+stow
+brightnessctl
+xbindkeys
+libnotify
+xdg-desktop-portal
+xdg-desktop-portal-gtk
+
+# Audio
+alsa-utils
+ncmpcpp
+mpd
+mpc
+mpd-mpris
+pulseaudio
+pulseaudio-alsa
+pulseaudio-bluetooth
+pavucontrol
+bluez
+bluez-utils
+playerctl
+
+# Fonts
+noto-fonts-emoji
+ttf-jetbrains-mono-nerd
+ttf-nerd-fonts-symbols
+ttf-nerd-fonts-symbols-common
+
+# Utilities
+btop
+unzip
+galculator
+maim
+tree
+obs-studio
+dunst
+
+# The internet
+firefox
+weechat
