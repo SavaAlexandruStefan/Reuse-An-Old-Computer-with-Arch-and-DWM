@@ -20,6 +20,7 @@ Edit packages.txt to add or remove packages
 ```
 vim packages.txt
 ```
+> Empty lines or lines starting with "#" are ignored by the script.
 
 ## Installation
 
