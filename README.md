@@ -35,6 +35,7 @@ Includes:
 - slstatus patched to allow colors
 
 [DWM Readme](dwm/README.md)
+
 [SLStatus README](slstatus/README.md)
 
 
@@ -45,4 +46,4 @@ Includes:
 - screenshot
 - volume control with dunst notifications
 
-! This scripts are here to give you a starting point. You SHOULD modify them or create other scripts to help your workflow.
+> This scripts are here to give you a starting point. You SHOULD modify them or create other scripts to help your workflow.
